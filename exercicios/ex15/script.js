@@ -43,12 +43,10 @@ function verificar() {
             } else {
                 // Idosa
                 img.setAttribute('src', './images/idosaf.png')
-            }
-            
+            }   
         }
         // res.style.textAlign = 'center' centralizar texto (porém ja foi feito no CSS)
         res.innerHTML = `Detectamos o sexo <strong>${genero}</strong> com <strong>${idade}</strong> anos.`
         res.append(img)
-
     }
 }
