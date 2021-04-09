@@ -15,7 +15,27 @@ section {
     width: 500px;
     margin: auto;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.500);
+    text-align: center;
 }
+
+.button {
+    background-color: white;
+    border: 2px solid #468eec;
+    color: black;
+    padding: 3px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #468eec;
+    color: white;
+  }
 
 footer {
     color: white;
