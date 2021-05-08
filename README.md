@@ -2,7 +2,7 @@
 
  Olá, Pequeno Gafanhoto! O Curso em Vídeo e o Google apresentam um curso de JavaScript e ECMAScript para Iniciantes aqui no YouTube! Veja nesse vídeo os detalhes sobre o lançamento, que aconteceu todo no mesmo dia. O curso já está 100% disponível para todos, gratuitamente. O professor Gustavo Guanabara vai ensinar o conteúdo básico em 6 módulos que vão desde o conhecimento da linguagem até o uso de funções. [Link](https://www.cursoemvideo.com/course/javascript/)
  
-  # Contato
+## Contato
  [![Linkedin](https://img.shields.io/badge/Linkedin-lucasllimati-blue.svg)](https://www.linkedin.com/in/lucasllimati/)
  [![Instagram](https://img.shields.io/badge/Instagram-olukaslima_-ff69b4.svg)](https://www.instagram.com/olukaslima_)
  [![Linktree](https://img.shields.io/badge/Linktree-lucasllimati-brightgreen.svg)](https://linktr.ee/lucasllimati)
